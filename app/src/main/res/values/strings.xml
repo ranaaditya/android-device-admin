@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">android-device-admin</string>
+    <string name="device_admin">Device Admin</string>
+    <string name="admin_receiver_status_enabled">Admin receiver status</string>
+    <string name="admin_receiver_status">Device Admin</string>
+    <string name="admin_receiver_status_disable_warning">Admin disable warning</string>
+    <string name="admin_receiver_status_disabled">Admin disabled</string>
+    <string name="admin_receiver_status_pw_changed">Admin password changed</string>
+</resources>
